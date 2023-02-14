@@ -1,0 +1,11 @@
+Spawn1 240 60
+
+Spawn2 400 60
+
+Spawn3 80 260
+
+Spawn4 560 260
+
+Spawn5 120 540
+
+Spawn6 520 540
