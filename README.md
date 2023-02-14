@@ -32,7 +32,7 @@
 
 
 ## 🧑‍💻 개발 문서
-&emsp;[개발 문서 확인하기](https://github.com/MingyuOh/WinAPI_2D_CrazyArcade/blob/main/Document/)
+&emsp;[개발 문서 확인하기](https://github.com/MingyuOh/CrazyArcade/tree/main/Document)
  
  
 ## 📺 시연 영상
