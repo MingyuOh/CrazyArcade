@@ -36,7 +36,7 @@
  
  
 ## 📺 시연 영상
-&emsp;[![Video Label](https://user-images.githubusercontent.com/16281218/218692901-025abe35-cc20-4f1f-b461-a6f8b2fb473f.png))](https://youtu.be/0h2cQZpt-CA)]    
+&emsp;[![Video Label](https://user-images.githubusercontent.com/16281218/218692901-025abe35-cc20-4f1f-b461-a6f8b2fb473f.png)(https://youtu.be/0h2cQZpt-CA)]    
 &emsp;**🔼 이미지를 클릭해주세요.**    
 
 ## 🖼️ 스크린샷
