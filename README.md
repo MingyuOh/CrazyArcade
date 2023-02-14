@@ -41,6 +41,6 @@
 
 ## 🖼️ 스크린샷
 &emsp;![CrazyArcade1](https://user-images.githubusercontent.com/16281218/218682274-31747a94-bc2a-4a2a-8265-c476a9c3c158.png)
-&emsp;![CrazyArcade2](https://user-images.githubusercontent.com/16281218/218682286-96698554-e5c2-4d3b-8663-688714c8cba9.png)
+&emsp;![CrazyArcade2](https://user-images.githubusercontent.com/16281218/218692702-a856a05c-f45b-49e2-b6da-258b1c64fd53.png)
 &emsp;![CrazyArcade3](https://user-images.githubusercontent.com/16281218/218682291-216bc0f9-e4ef-4736-b786-1e5127c70e68.png)    
 &emsp;![CrazyArcade4](https://user-images.githubusercontent.com/16281218/218682293-cec0f5fc-884e-4a02-808c-05cecc8ee4de.png)
